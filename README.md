@@ -3,4 +3,4 @@ Project from [this instructable](http://www.instructables.com/id/Fast-Portable-a
 
 ## Project continued in different repo
 
-I found that Vitor code is based on STM32-O-Scope, so I forked that repo and rebased it. Please [go there](https://github.com/tocisz/STM32-O-Scope).
+I found that Vitor code is based on STM32-O-Scope, so I forked that repo and rebased code. Please [go there](https://github.com/tocisz/STM32-O-Scope).
